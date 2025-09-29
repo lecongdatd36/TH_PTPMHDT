@@ -1,0 +1,387 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|c:\\users\\admin\\source\\repos\\1150080130_lecongat_lab2\\1150080130_lecongat_lab2\\apdung4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|solutionrelative:1150080130_lecongat_lab2\\apdung4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|c:\\users\\admin\\source\\repos\\1150080130_lecongat_lab2\\1150080130_lecongat_lab2\\apdung4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|solutionrelative:1150080130_lecongat_lab2\\apdung4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|c:\\users\\admin\\source\\repos\\1150080130_lecongat_lab2\\1150080130_lecongat_lab2\\apdung4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|solutionrelative:1150080130_lecongat_lab2\\apdung4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|c:\\users\\admin\\source\\repos\\1150080130_lecongat_lab2\\1150080130_lecongat_lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|solutionrelative:1150080130_lecongat_lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|c:\\users\\admin\\source\\repos\\1150080130_lecongat_lab2\\1150080130_lecongat_lab2\\thuchanh3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|solutionrelative:1150080130_lecongat_lab2\\thuchanh3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|c:\\users\\admin\\source\\repos\\1150080130_lecongat_lab2\\1150080130_lecongat_lab2\\thuchanh3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|solutionrelative:1150080130_lecongat_lab2\\thuchanh3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|c:\\users\\admin\\source\\repos\\1150080130_lecongat_lab2\\1150080130_lecongat_lab2\\thuchanh3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|solutionrelative:1150080130_lecongat_lab2\\thuchanh3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|c:\\users\\admin\\source\\repos\\1150080130_lecongat_lab2\\1150080130_lecongat_lab2\\thuchanh2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|solutionrelative:1150080130_lecongat_lab2\\thuchanh2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|c:\\users\\admin\\source\\repos\\1150080130_lecongat_lab2\\1150080130_lecongat_lab2\\apdung3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|solutionrelative:1150080130_lecongat_lab2\\apdung3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|c:\\users\\admin\\source\\repos\\1150080130_lecongat_lab2\\1150080130_lecongat_lab2\\apdung3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|solutionrelative:1150080130_lecongat_lab2\\apdung3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|c:\\users\\admin\\source\\repos\\1150080130_lecongat_lab2\\1150080130_lecongat_lab2\\apdung3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|solutionrelative:1150080130_lecongat_lab2\\apdung3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|c:\\users\\admin\\source\\repos\\1150080130_lecongat_lab2\\1150080130_lecongat_lab2\\thuchanh2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|solutionrelative:1150080130_lecongat_lab2\\thuchanh2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|c:\\users\\admin\\source\\repos\\1150080130_lecongat_lab2\\1150080130_lecongat_lab2\\thuchanh2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|solutionrelative:1150080130_lecongat_lab2\\thuchanh2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|c:\\users\\admin\\source\\repos\\1150080130_lecongat_lab2\\1150080130_lecongat_lab2\\apdung2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|solutionrelative:1150080130_lecongat_lab2\\apdung2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|c:\\users\\admin\\source\\repos\\1150080130_lecongat_lab2\\1150080130_lecongat_lab2\\apdung2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|solutionrelative:1150080130_lecongat_lab2\\apdung2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|c:\\users\\admin\\source\\repos\\1150080130_lecongat_lab2\\1150080130_lecongat_lab2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|solutionrelative:1150080130_lecongat_lab2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|c:\\users\\admin\\source\\repos\\1150080130_lecongat_lab2\\1150080130_lecongat_lab2\\apdung1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|solutionrelative:1150080130_lecongat_lab2\\apdung1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|c:\\users\\admin\\source\\repos\\1150080130_lecongat_lab2\\1150080130_lecongat_lab2\\apdung1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|solutionrelative:1150080130_lecongat_lab2\\apdung1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|c:\\users\\admin\\source\\repos\\1150080130_lecongat_lab2\\1150080130_lecongat_lab2\\apdung1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|solutionrelative:1150080130_lecongat_lab2\\apdung1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|c:\\users\\admin\\source\\repos\\1150080130_lecongat_lab2\\1150080130_lecongat_lab2\\apdung2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|solutionrelative:1150080130_lecongat_lab2\\apdung2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|c:\\users\\admin\\source\\repos\\1150080130_lecongat_lab2\\1150080130_lecongat_lab2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|solutionrelative:1150080130_lecongat_lab2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|c:\\users\\admin\\source\\repos\\1150080130_lecongat_lab2\\1150080130_lecongat_lab2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6341B47-AB91-414D-9818-16C830D682C4}|1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2.csproj|solutionrelative:1150080130_lecongat_lab2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Apdung4.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\Apdung4.Designer.cs",
+              "RelativeDocumentMoniker": "1150080130_LECONGAT_LAB2\\Apdung4.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\Apdung4.Designer.cs",
+              "RelativeToolTip": "1150080130_LECONGAT_LAB2\\Apdung4.Designer.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAmwG8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:45:28.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Apdung4.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\Apdung4.cs",
+              "RelativeDocumentMoniker": "1150080130_LECONGAT_LAB2\\Apdung4.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\Apdung4.cs",
+              "RelativeToolTip": "1150080130_LECONGAT_LAB2\\Apdung4.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:44:51.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Apdung4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\Apdung4.cs",
+              "RelativeDocumentMoniker": "1150080130_LECONGAT_LAB2\\Apdung4.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\Apdung4.cs [Design]",
+              "RelativeToolTip": "1150080130_LECONGAT_LAB2\\Apdung4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:44:24.844Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Thuchanh3.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\Thuchanh3.cs",
+              "RelativeDocumentMoniker": "1150080130_LECONGAT_LAB2\\Thuchanh3.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\Thuchanh3.cs",
+              "RelativeToolTip": "1150080130_LECONGAT_LAB2\\Thuchanh3.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAIwFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:40:12.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Thuchanh3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\Thuchanh3.cs",
+              "RelativeDocumentMoniker": "1150080130_LECONGAT_LAB2\\Thuchanh3.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\Thuchanh3.cs [Design]",
+              "RelativeToolTip": "1150080130_LECONGAT_LAB2\\Thuchanh3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:39:09.269Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Apdung3.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\Apdung3.cs",
+              "RelativeDocumentMoniker": "1150080130_LECONGAT_LAB2\\Apdung3.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\Apdung3.cs",
+              "RelativeToolTip": "1150080130_LECONGAT_LAB2\\Apdung3.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:35:29.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Apdung3.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\Apdung3.Designer.cs",
+              "RelativeDocumentMoniker": "1150080130_LECONGAT_LAB2\\Apdung3.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\Apdung3.Designer.cs",
+              "RelativeToolTip": "1150080130_LECONGAT_LAB2\\Apdung3.Designer.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAmwHoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:35:24.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Apdung3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\Apdung3.cs",
+              "RelativeDocumentMoniker": "1150080130_LECONGAT_LAB2\\Apdung3.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\Apdung3.cs [Design]",
+              "RelativeToolTip": "1150080130_LECONGAT_LAB2\\Apdung3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:35:19.682Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\Program.cs",
+              "RelativeDocumentMoniker": "1150080130_LECONGAT_LAB2\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\Program.cs",
+              "RelativeToolTip": "1150080130_LECONGAT_LAB2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:05:32.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Thuchanh3.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\Thuchanh3.Designer.cs",
+              "RelativeDocumentMoniker": "1150080130_LECONGAT_LAB2\\Thuchanh3.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\Thuchanh3.Designer.cs",
+              "RelativeToolTip": "1150080130_LECONGAT_LAB2\\Thuchanh3.Designer.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAuwM0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:40:09.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Thuchanh2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\Thuchanh2.Designer.cs",
+              "RelativeDocumentMoniker": "1150080130_LECONGAT_LAB2\\Thuchanh2.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\Thuchanh2.Designer.cs",
+              "RelativeToolTip": "1150080130_LECONGAT_LAB2\\Thuchanh2.Designer.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAmwKwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:26:11.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Thuchanh2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\Thuchanh2.cs",
+              "RelativeDocumentMoniker": "1150080130_LECONGAT_LAB2\\Thuchanh2.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\Thuchanh2.cs [Design]",
+              "RelativeToolTip": "1150080130_LECONGAT_LAB2\\Thuchanh2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:26:04.69Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Apdung2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\Apdung2.Designer.cs",
+              "RelativeDocumentMoniker": "1150080130_LECONGAT_LAB2\\Apdung2.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\Apdung2.Designer.cs",
+              "RelativeToolTip": "1150080130_LECONGAT_LAB2\\Apdung2.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:23:08.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Thuchanh2.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\Thuchanh2.cs",
+              "RelativeDocumentMoniker": "1150080130_LECONGAT_LAB2\\Thuchanh2.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\Thuchanh2.cs",
+              "RelativeToolTip": "1150080130_LECONGAT_LAB2\\Thuchanh2.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:26:13.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApDung1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\ApDung1.cs",
+              "RelativeDocumentMoniker": "1150080130_LECONGAT_LAB2\\ApDung1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\ApDung1.cs",
+              "RelativeToolTip": "1150080130_LECONGAT_LAB2\\ApDung1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:14:35.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApDung1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\ApDung1.Designer.cs",
+              "RelativeDocumentMoniker": "1150080130_LECONGAT_LAB2\\ApDung1.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\ApDung1.Designer.cs",
+              "RelativeToolTip": "1150080130_LECONGAT_LAB2\\ApDung1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:13:01.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Apdung2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\Apdung2.cs",
+              "RelativeDocumentMoniker": "1150080130_LECONGAT_LAB2\\Apdung2.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\Apdung2.cs [Design]",
+              "RelativeToolTip": "1150080130_LECONGAT_LAB2\\Apdung2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:21:16.707Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApDung1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\ApDung1.cs",
+              "RelativeDocumentMoniker": "1150080130_LECONGAT_LAB2\\ApDung1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\ApDung1.cs [Design]",
+              "RelativeToolTip": "1150080130_LECONGAT_LAB2\\ApDung1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:10:18.188Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\Form1.cs",
+              "RelativeDocumentMoniker": "1150080130_LECONGAT_LAB2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\Form1.cs",
+              "RelativeToolTip": "1150080130_LECONGAT_LAB2\\Form1.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:06:07.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Apdung2.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\Apdung2.cs",
+              "RelativeDocumentMoniker": "1150080130_LECONGAT_LAB2\\Apdung2.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\Apdung2.cs",
+              "RelativeToolTip": "1150080130_LECONGAT_LAB2\\Apdung2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:22:27.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "1150080130_LECONGAT_LAB2\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\Form1.Designer.cs",
+              "RelativeToolTip": "1150080130_LECONGAT_LAB2\\Form1.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:03:31.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\Form1.cs",
+              "RelativeDocumentMoniker": "1150080130_LECONGAT_LAB2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\1150080130_LECONGAT_LAB2\\1150080130_LECONGAT_LAB2\\Form1.cs [Design]",
+              "RelativeToolTip": "1150080130_LECONGAT_LAB2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:01:46.879Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
